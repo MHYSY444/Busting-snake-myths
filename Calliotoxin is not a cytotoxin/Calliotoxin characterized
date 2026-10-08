@@ -1,0 +1,189 @@
+Creatine Kinase Elevation in Calliophis Envenoming
+
+1. Summary
+(A) Direct myotoxicity, principally from PLA2. Reasonably supported. PLA2 dominates the proteome by mass, whole venom is demonstrably myotoxic in mice, and PLA2 myotoxicity is well characterised across elapids.
+(B) Channel-mediated myotoxicity from calliotoxin at NaV1.4. Speculative, and weakened by the abundance finding above.
+They are not mutually exclusive, and they predict different EMG findings.
+
+2. The Clinical Record
+|Source                  |Species          |n |Findings                                                                                            |
+|------------------------|-----------------|-:|----------------------------------------------------------------------------------------------------|
+|Takasaki 1991 (footnote)|*M. bivirgata*   |1 |Wet bite, researcher. Pain and swelling; recurrent pain ~1 month. Minor symptoms only.              |
+|Tansuwannarat 2026      |*C. b. flaviceps*|7 |Swelling 4/7, pain 2/7. One severe pain requiring IV analgesia. One anaphylaxis. No neurotoxicity.  |
+|Harrison 1957           |*M. bivirgata*   |1 |Fatal, child, ~2 h after bite on thumb web. No clinical description survives.                       |
+|Handbook §37.5.6        |*Calliophis* spp.|— |Local effects self-limiting within days. Elevated CK in some patients, no significant complications.|
+
+Across 52 Asian coral snake bites in Thailand: no ptosis, bulbar weakness, respiratory compromise, paralysis or death; no ventilation or antivenom. 
+The authors state CK was not systematically measured and subclinical myotoxicity could not be ruled out — so the largest series available is silent on the question §37.5.6 answers.
+The dose question is settled: Takasaki’s was a wet bite from a snake that can yield ~150 mg in one milking.
+
+3. Mechanism A: Direct Myotoxicity
+3.1 What the venom contains
+Tan et al. 2016 (C. bivirgata flaviceps): 23 proteins across 11 families, predominated by PLA2 and cytotoxin, no detectable post-synaptic neurotoxin. 
+Moderate cytotoxicity against fibroblasts and myotoxicity in mice. ~41% PLA2, ~23% cytotoxin-like.
+Tan et al. 2019 (C. intestinalis, Ismail a co-author): PLA2 43.4%, 3FTx 20.1%. In vivo myotoxic but non-lethal to mice, frogs and geckos even at 5–10 µg/g.
+
+3.2 The “cytotoxin” problem
+The word cytotoxin does a great deal of work in this literature, and it is not earned.
+The annotations are by homology. No purified Calliophis “cytotoxin” has been shown to lyse cells.
+
+Yang et al. made this criticism in 2016. Earlier studies concluding the venom’s 3FTx were exclusively cytotoxic reflected a very narrow scope of assays, 
+with cytotoxicity assumed from partial-sequence similarity rather than established by activity characterisation. Their own work then found a 3FTx doing something else entirely.
+Dashevsky and Fry went further in 2021. Although cytotoxins are close neighbours of the clades containing the δ-elapitoxins and maticotoxins, the 
+studies describing both noted that they are not themselves cytotoxic. The containing clade sits in a polytomy that also includes a large group of 
+Micrurus toxins never shown to be cytotoxic. And the loop closes. Tasoulis et al. state that maticotoxin alone makes up 23% of the whole venom — 
+identifying the “cytotoxin-like” fraction as the toxin Takasaki characterised and found not to be cytotoxic.
+Even the authors who use the label hedge it. Palasuberniam et al. propose these as Y-type CTX-like proteins, preserving a less toxic form of elapid CTX-like protein.
+
+3.3 What direct evidence of cytotoxicity actually exists
+One assay. Tan et al. 2016 measured crude venom against CRL-2648 fibroblasts: IC50 62.14 ± 0.87 µg/mL, described as moderate. Two limitations:
+1. It is crude venom — it cannot attribute the effect to any component. PLA2 at 41% would produce membrane damage unaided.
+2. The figure is high for a venom alleged to be cytotoxin-rich. Genuinely cytotoxin-dominated elapid venoms are considerably more potent in this kind of assay.
+Nothing else exists. The nanofractionation platforms developed since 2021 profile elapid cytotoxicity across human cell lines after separating components — 
+precisely the method that would settle this. Applied to Naja, Bungarus and others. Calliophis has not been run.
+
+3.4 Consequences
+Mechanism A loses its cytotoxin component entirely. What remains is PLA2 at ~41%. The whole venom’s cytotoxicity and myotoxicity are real measured 
+findings, but they were assigned to cytotoxin or cytotoxin–PLA2 synergy presumptively, on the same contested annotation. PLA2 alone accounts for both.
+The abundance question partly resolves in favour of §5’s original claim. Calliotoxin is probably a genuinely minor protein component, and Mechanism 
+B weakens accordingly.
+
+What replaces the worry is a better question. A toxin at 23% of this venom, isolated thirty-five years ago, with no established function — 
+not cytotoxic, not demonstrated at any channel.
+
+3.5 The recommendation already exists
+From Tan et al. 2019: serum creatine kinase should be monitored serially for potential complication of myotoxicity. This is the Handbook’s 
+observation, in print, with a mechanism attached, from the same clinician.
+
+3.6 How PLA2 myotoxicity works
+Myotoxic PLA2s bind the sarcolemma and hydrolyse its phospholipids; the membrane loses integrity, calcium enters, cytosolic contents including CK 
+escape. A direct coral-snake precedent: Micrurus nigrocinctus venom acts primarily on the sarcolemma, producing wedge-shaped “delta” lesions within 
+15 minutes with rapid loss of muscle CK and creatine and calcium influx.
+
+3.7 Why this explanation is still preferred
+● PLA2 is dominant by mass, with an independently established myotoxic mechanism.
+● Myotoxicity demonstrated in mice for both species.
+● No assumptions about dose, kinetics or channel behaviour.
+● Explains local, self-limiting CK elevation and the absence of neurotoxicity.
+It remains parsimonious, though on a narrower base: PLA2 alone, rather than PLA2 plus a cytotoxin fraction that turns out not to be cytotoxic.
+
+4. Mechanism B: NaV1.4 and Calliotoxin
+4.1 The channel
+NaV1.4 is the voltage-gated sodium channel of adult skeletal muscle, encoded by SCN4A (17q23.3) — the predominant isoform in adult skeletal muscle, 
+generating the inward current behind the action-potential upstroke.The α-subunit folds into four homologous domains around a central pore, each with 
+six transmembrane segments: S1–S4 form the voltage sensor (S4 carries positive charges that move outward on depolarisation); S5–S6 line the pore.
+Three states, two gates: closed at ~−80 to −90 mV; open on depolarisation (sub-millisecond); then fast-inactivated, when the DIII–DIV linker swings 
+across the inner mouth of the pore and plugs it. Fast inactivation is separate from closing the activation gate and can be disrupted independently. 
+That is what calliotoxin does.
+
+4.2 What calliotoxin does
+|Parameter              |Control       |+ Calliotoxin |Effect               |
+|-----------------------|--------------|--------------|---------------------|
+|V½ activation          |−35.0 ± 0.1 mV|−38.1 ± 0.3 mV|Hyperpolarising shift|
+|V½ fast inactivation   |−66.1 ± 0.5 mV|−61.6 ± 0.7 mV|Depolarising shift   |
+|Inactivation τ (−20 mV)|0.24 ± 0.02 ms|5.22 ± 0.9 ms |~22× slowing         |
+|Persistent current     |−6 ± 4 pA     |−536 ± 33 pA  |~90× increase        |
+|Peak ramp current      |−143 ± 12 pA  |−728 ± 52 pA  |~5× increase         |
+200 nM purified native toxin, HEK-293 cells expressing human NaV1.4. All effects abolished by tetrodotoxin; unaffected by nicotinic, muscarinic and 
+α1 antagonists. In intact muscle: rising contractions, fasciculations, abolished nerve-mediated twitches. Yang et al. report no taxon-specific effect — 
+so the mild clinical picture cannot be attributed to channel-level resistance.
+
+4.3 The analogy to human SCN4A disease
+Inference from here on.
+Inherited gain-of-function SCN4A mutations cause sodium-channel myotonia, paramyotonia congenita, and hyperkalaemic/normokalaemic periodic paralysis. 
+What impaired fast inactivation does to a living human:
+● Myotonia — stiffness, delayed relaxation.
+● Episodic weakness when depolarisation inactivates channels secondarily.
+● Myotonic discharges on EMG.
+● CK elevation. In 56 paramyotonia congenita patients (49 with SCN4A mutations), about half had mild weakness and most had increased serum CK. 
+Values are modest: 848 U/L (T704M), 279–771 U/L (paediatric), 276 IU/L. Recurrent exertional rhabdomyolysis also reported in a paramyotonia family with SCN4A variants.
+This establishes plausibility, not causation.
+
+4.4 Precedents from other NaV activators
+Scorpion envenoming. A documented rhabdomyolysis-and-myocarditis case: CK 2,129 U/L, CK-MB 43.24 ng/mL, troponin 22.59 ng/mL. Cardiac markers show this was 
+not purely skeletal, and scorpion envenoming involves massive catecholamine release — the CK cannot be attributed cleanly to direct channel action.
+Ciguatera. Ciguatoxins bind site 5 on voltage-sensitive channels in all excitable tissues; P-CTX-1 acts across multiple NaV isoforms. Symptoms include 
+myalgia, arthralgia, paraesthesiae, dysaesthesiae and heightened nociception, some persisting months to years. The more interesting comparison for the Takasaki case.
+
+5. On the “Low Abundance” Claim
+Handbook §37.2.1.4 cites Yang et al. 2016. The citation appears misattributed — they did not quantify calliotoxin’s share, and their argument runs the other way.
+Revision 2 doubted the claim; Revision 3 largely restores it. The abundant fraction is maticotoxin, and maticotoxins and δ-elapitoxins are distinct subclades — 
+so it is not calliotoxin in disguise.
+Conclusion: calliotoxin probably is a minor protein component, the Handbook’s claim is probably right, and only its citation is wrong. Mechanism B weakens correspondingly.
+The transcript–protein divergence remains striking and unexplained — ~40% of toxin transcripts versus a minor share of secreted protein. Post-transcriptional 
+regulation, differential secretion, or poor peptide recovery are all possible. None investigated.
+Still worth doing: re-analysis of the existing proteomic spectra against the 2021 transcriptome, which did not exist when the proteome was annotated. It would 
+put a number on calliotoxin directly rather than by subtraction. Computational reanalysis of published data, no new experiment.
+
+6. Distinguishing the Two Mechanisms
+|Finding                       |A (direct, PLA2)                     |B (calliotoxin/NaV1.4)                                   |
+|------------------------------|-------------------------------------|---------------------------------------------------------|
+|Myotonic discharges on EMG    |Absent                               |Present — impaired fast inactivation is the classic cause|
+|Fasciculations near bite site |Not expected                         |Expected                                                 |
+|Stiffness / delayed relaxation|Not expected                         |Expected                                                 |
+|CK time course                |Peaks 24–48 h, falls over days       |Tracks toxin presence; earlier peak                      |
+|Spatial distribution          |Confined to envenomed tissue         |Potentially wider                                        |
+|Na+-channel blockade          |No effect                            |Mexiletine predicted to help                             |
+|Histology                     |Delta lesions, sarcolemmal disruption|Fibre damage without primary lysis                       |
+The single most informative test is needle EMG near the bite site in the acute phase. Myotonic discharges would be strong evidence that calliotoxin acts on 
+human NaV1.4 in vivo — never sought, as far as I can determine. Their absence, with raised CK, would point firmly to Mechanism A.
+Other predictions: serial CK with CK-MB; CK elevation commoner than clinical findings; myoglobinuria absent or trivial; species comparison (C. intestinalis vs 
+C. bivirgatus — requires only existing poison-centre records); proteome reanalysis.
+The maticotoxin gap
+Separately from the CK question, the most conspicuous hole in this venom’s characterisation is a toxin making up roughly a quarter of it whose function 
+is unknown. Maticotoxin was isolated in 1991, is not cytotoxic, and has not been tested at any ion channel or receptor. Only a partial sequence for maticotoxin 
+A was published; gross amino acid compositions were given for the others, which Dashevsky and Fry note may never be matchable to specific sequences.
+
+Three things worth doing, none requiring a patient:
+1. Run it through a modern functional panel — nicotinic and muscarinic receptors, NaV subtypes, KV, CaV. Calliotoxin was found because somebody ran 
+an assay nobody had thought to run; maticotoxin has had no equivalent attempt.
+2. Test purified maticotoxin for cytotoxicity properly, by nanofractionation against human cell lines. Settles a thirty-five-year-old label either way.
+3. Recover full sequences from the 2021 transcriptome and match them to the 1991 fractions.
+If maticotoxin shares calliotoxin’s target, Mechanism B returns with a quarter of the venom behind it. If it is genuinely cytotoxic, Mechanism A is 
+vindicated on evidence rather than assumption. Either result beats the present position.
+Study design. Prospective cohort at a Malaysian or Thai centre: serial CK, CK-MB, renal function, potassium, urine myoglobin, needle EMG where feasible, 
+stratified by species. Given seven confirmed C. bivirgatus bites in ten years in Thailand, this needs multi-centre collaboration. The retrospective comparison could be done now.
+
+7. What Should Be Retired
+“The majority of human C. bivirgatus envenomations were lethal.” Asserted on the basis of a single 1957 case with no surviving clinical description. 
+Against it stand eight or more documented bites — including one large wet bite — with minor or local effects, no systemic neurotoxicity, no deaths.
+That a bite is a medical emergency. The evidence supports assessment and short observation, which is what the Thai authors recommend as a precaution 
+rather than on the basis of anything observed.
+
+8. Caveats
+● §37.5.6 is a personal communication: no case count, values, species breakdown, or treatment of confounders.
+● CK is non-specific.
+● Mechanism B remains unevidenced in humans.
+● Calliotoxin’s subtype selectivity is unknown — only NaV1.4 was tested.
+● The fatal case remains unexplained and probably always will.
+● Species pooling and venom variation both limit interpretation.
+● The cytotoxin critique has limits. §3.2 establishes that maticotoxin was characterised and found not cytotoxic, and that the label persisted anyway. 
+It does not establish that maticotoxin has no membrane activity under conditions nobody has tested, nor that the minor 3FTx components are innocent. 
+Crude venom cytotoxicity and myotoxicity are real measured findings; what is unresolved is which components produce them.
+● The maticotoxin identification rests on one source. Tasoulis et al. state the 23% figure in a commentary on another paper, not a primary analysis of 
+this venom. Consistent with the published proteome, but worth verifying against source data.
+
+9. Conclusion
+CK elevation in Calliophis bite patients is most likely direct myotoxicity, driven principally by the PLA2 fraction that dominates these venoms — an 
+explanation already proposed in print, by the same clinician whose observation the Handbook records.
+Whether calliotoxin also contributes through NaV1.4 is open and plausible on mechanism, but probably minor: the abundant three-finger toxin in this 
+venom is maticotoxin, not calliotoxin. It remains worth excluding, because it is cheap to do and because a positive finding would be the first 
+demonstration that this unusual toxin does anything at all in a person.
+The larger prize is elsewhere. A toxin constituting roughly a quarter of this venom has no known function. Calliotoxin was found because somebody 
+ran an assay nobody had thought to run. Maticotoxin has never had that attempt, and the label it carries is very likely the reason: a protein already 
+filed under “cytotoxin” does not look like an open question.
+Two broader lessons emerge, and they are versions of the same failure.
+A reputation outran its evidence. The danger attributed to this snake rests on one undocumented death from 1957, amplified through citation into assertions 
+about lethality the clinical record contradicts. An annotation outran its evidence. “Cytotoxin” entered this literature as a sequence-similarity label and 
+has been read ever since as a demonstrated function — to the point of being offered as the explanation for clinical findings. Yang et al. flagged the problem 
+in 2016; Dashevsky and Fry restated it in 2021. The label persists regardless, attached to a protein whose own 1991 characterisation contradicted it.
+In both cases a provisional claim hardened through repetition into a fact nobody had established. Anyone working on this venom should treat the descriptive
+vocabulary — “cytotoxin”, “medically important”, “potentially lethal” — as inherited assumptions rather than findings, and check what each one actually rests on.
+
+Sources
+Clinical. Tansuwannarat P et al. Toxins 2026;18(4):177 · link. Takasaki C et al. Toxicon 1991;29:191–200. Harrison JL. Malay Nat J 1957. Mackessy SP (ed), Handbook of Venoms and Toxins of Reptiles, §§37.2.1.4, 37.5.6.
+Venom composition and myotoxicity. Tan CH et al. J Proteomics 2016;132:1–12. Tan KY, Liew JL, Tan NH, Quah ESH, Ismail AK, Tan CH. J Proteomics 2019;192:246–257 · link. Tasoulis T, Pukala TL, Isbister GK. Comments on Proteomic Investigations of Two Pakistani Naja Snake Venoms. Toxins 2020;12(12):780 · link — source of the maticotoxin = 23% figure. Palasuberniam P et al. JVATiTD 2021;27:e20210024 · link. Gutiérrez JM et al., Micrurus nigrocinctus, Br J Exp Pathol. Xie C et al., J Chromatogr B 2021;1176 (method; Calliophis not included). Profiling cytotoxicity of nanofractionated elapid venoms, 2025 (method; Calliophis not included).
+Calliotoxin pharmacology. Yang DC et al. Toxins 2016;8:303 · link. Dashevsky D, Rokyta D, Frank N, Nouwens A, Fry BG. Toxins 2021;13:124 · link.
+NaV1.4 and SCN4A. SCN4A Channelopathies, Genes 2025;17:1116 · link. Overlap of periodic paralysis and paramyotonia congenita, Channels 2019;13(1):110–119 · link. OMIM *603967. Brady A, MDA abstract P212.
+Other NaV activators. Ersoy S et al., 2017. Pearn J. JNNP 2001;70:4–8 · link. Inserra MC et al. Sci Rep 2017;7:42810.
+Revision 3, 7 October 2026. §3 reports published findings, with §§3.2–3.3 summarising published critiques and the absence of direct evidence. §§4, 6 and 7 contain inference and hypothesis, flagged in place.
